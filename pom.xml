@@ -8,7 +8,7 @@
 	<name>CustomerManagement Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring-bom-version>4.3.29.RELEASE</spring-bom-version>
+		<spring-bom-version>4.3.30.RELEASE</spring-bom-version>
 		<hibernate.version>5.2.9.Final</hibernate.version>
 		<java.version>1.8</java.version>
 		<derby.version>10.10.1.1</derby.version>
